@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".StepsRecorder">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:text="Steps Tracker"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <androidx.cardview.widget.CardView
+
+            app:cardBackgroundColor="@color/WhiteSmoke"
+            app:cardCornerRadius="20dp"
+            android:elevation="5dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp">
+
+            <RelativeLayout
+                android:layout_margin="5dp"
+                android:background="@drawable/steps_ui"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="30dp"
+                    android:text="Steps"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/stepsCountId"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="65dp"
+                    android:text="0"
+                    android:textColor="@color/lightBlue"
+                    android:textSize="18sp" />
+
+
+            </RelativeLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/StartRecordStepsId"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="270dp"
+            app:cardBackgroundColor="@color/lightBlue"
+            app:cardCornerRadius="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Start"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/StopRecordStepsId"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="270dp"
+            android:layout_marginEnd="40dp"
+            app:cardBackgroundColor="@color/BrickRed"
+            app:cardCornerRadius="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Stop"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_marginTop="270dp"
+            android:layout_marginStart="50dp"
+            app:cardCornerRadius="10dp"
+            app:cardBackgroundColor="@color/purple_500"
+            android:layout_marginEnd="50dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/BackRecordStepsId"
+            android:layout_width="100dp"
+            android:layout_height="50dp">
+
+            <TextView
+                android:layout_gravity="center"
+                android:text="back"
+                android:textSize="18sp"
+                android:textColor="@color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/CheckCaloriesId"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="330dp"
+            android:backgroundTint="@color/lightBlue"
+            android:text="Check Calories" />
+
+        <EditText
+            android:id="@+id/WeightId"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="410dp"
+            android:hint="Enter Body weight (kg)"
+            android:inputType="number"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/EnterWeightBtnId"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginStart="240dp"
+            android:layout_marginTop="410dp"
+            android:backgroundTint="@color/BrickRed"
+            android:text="Enter"
+            android:visibility="gone" />
+
+
+        <TextView
+            android:id="@+id/CalorieText"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="470dp"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:visibility="visible"
+            android:text="Calories : "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/CalorieNumberId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="130dp"
+            android:layout_marginTop="470dp"
+            android:text="0"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:visibility="visible" />
+
+
+        <Button
+            android:id="@+id/testingBtnId"
+            android:text="add steps"
+            android:layout_marginStart="20dp"
+            android:visibility="gone"
+            android:layout_marginTop="550dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+
+    </RelativeLayout>
+
+</ScrollView>
+

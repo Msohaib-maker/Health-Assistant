@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/blue_ui.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/btn_design.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/drop_down.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/exercise_ui.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/green_ui.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/input_box.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/med_ui.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/red_ui.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/steps_ui.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/drawable/water_mod1.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/activity_analytics.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/activity_first_screen.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/activity_main.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/activity_push_ups.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/activity_steps_recorder.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/activity_water_mod1.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/bottom_sheet.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/bottom_sheet_update.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/fragment_heart.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/fragment_medicine.xml" value="0.176" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/fragment_settings.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/fragment_water.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/pop_up.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/single_article.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/single_pill.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/single_reminder.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout-land/single_reminder_time.xml" value="0.24250440917107582" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_analytics.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_first_screen.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_push_ups.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_splash.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_splash_screen.xml" value="0.33454987834549876" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_steps_recorder.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_update_pill.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/activity_water_mod1.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/bottom_sheet.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/bottom_sheet_update.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/bottom_shhet_update.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/fragment_heart.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/fragment_medicine.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/fragment_settings.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/fragment_water.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/pop_up.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/single_article.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/single_pill.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/single_reminder.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/layout/single_reminder_time.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/menu/bottom_nav.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_Project/app/src/main/res/menu/dots_menu.xml" value="0.2864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

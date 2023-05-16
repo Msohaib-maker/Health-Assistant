@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SMD_Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="summary">Summary</string>
+
+    <string-array name="SpinnerItems">
+        <item>Meter</item>
+        <item>Feet</item>
+        <item>Inch</item>
+
+    </string-array>
+
+    <string name="AppAdId">ca-app-pub-4406004099160396~5466498729</string>
+    <string name="AdId">ca-app-pub-4406004099160396/9700407143</string>
+</resources>
